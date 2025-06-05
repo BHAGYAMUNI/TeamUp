@@ -12,29 +12,29 @@ import ProfileCard from "@/components/discover/ProfileCard";
 const MOCK_PROFILES = [
   {
     id: "1",
-    name: "Alex Johnson",
+    name: "Muni Kesavarao",
     bio: "Full-stack developer with 3 years of experience. Love building innovative solutions at hackathons.",
     avatar: "https://i.pravatar.cc/150?img=1",
     skills: ["React", "Node.js", "MongoDB"],
     techStack: ["MERN", "Firebase"],
     location: "San Francisco, CA",
     openToCollaborate: true,
-    github: "https://github.com/alexjohnson",
-    linkedin: "https://linkedin.com/in/alexjohnson",
-    email: "alex.johnson@example.com"
+    github: "https://github.com/munikesavarao",
+    linkedin: "https://linkedin.com/in/munikesavarao",
+    email: "muni.kesavarao@example.com"
   },
   {
     id: "2",
-    name: "Samantha Lee",
+    name: "Muni Bhagyasri",
     bio: "UX/UI designer passionate about creating beautiful and functional interfaces.",
     avatar: "https://i.pravatar.cc/150?img=5",
     skills: ["UI Design", "Figma", "User Research"],
     techStack: ["Adobe XD", "Sketch"],
     location: "New York, NY",
     openToCollaborate: true,
-    github: "https://github.com/samanthalee",
-    linkedin: "https://linkedin.com/in/samanthalee",
-    email: "samantha.lee@example.com"
+    github: "https://github.com/munibhagyasri",
+    linkedin: "https://linkedin.com/in/munibhagyasri",
+    email: "muni.bhagyasri@example.com"
   },
   {
     id: "3",

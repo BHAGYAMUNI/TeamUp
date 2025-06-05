@@ -10,7 +10,7 @@ import { useNavigate } from "react-router-dom";
 // Mock user data
 const mockUser = {
   id: "1",
-  name: "Alex Johnson",
+  name: "Muni Kesavarao",
   bio: "Full-stack developer with 3 years of experience. Passionate about building innovative web applications and solving complex problems. Love participating in hackathons to challenge myself and meet like-minded developers.",
   avatar: "https://i.pravatar.cc/300?img=1",
   email: "alex.johnson@example.com",
